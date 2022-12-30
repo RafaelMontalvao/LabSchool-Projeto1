@@ -1,11 +1,6 @@
 #### LabSchool  ####
 
 
-LabSchool
-
-Link do meu Video: https://drive.google.com/drive/folders/18hO9HZpnAJm4Uc_c-uLa7bKaWL1nXSTF?usp=sharing
-
-
 RF01 - Cadastro de Aluno Situação da matrícula - um aluno pode estar com a matrícula nas seguintes situações: Ativo Irregular Atendimento pedagógico Inativo O usuário do sistema poderá alterar esta situação sempre que necessário. Nota: o aluno deve armazenar a nota do processo seletivo de entrada (0 até 10) Esta nota deve ser inserida no momento do cadastro do aluno. Total de atendimentos pedagógicos realizados. Este item é um contador que inicia em zero. Sempre que um pedagogo realiza um atendimento este valor deve ser incrementado
 
 RF02 - Atualização da Situação da matrícula de Aluno O sistema deve permitir alterar/atualizar a situação da matrícula de determinado aluno. O usuário do sistema poderá alterar esta situação sempre que necessário.
