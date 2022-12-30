@@ -1,3 +1,7 @@
+Primeiro projeto do primeiro modulo do Curso DEVINHOUSE - Modulo 1  - JAVA.
+
+Nota obtida no projeto 8,25.
+
 #### LabSchool  ####
 
 
